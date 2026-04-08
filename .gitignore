@@ -1,0 +1,22 @@
+# Binary
+metering-api
+
+# Database
+*.db
+
+# Environment
+.env
+
+# Uploads
+uploads/*
+!uploads/.gitkeep
+
+# IDE
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+
+.devcontainer/
