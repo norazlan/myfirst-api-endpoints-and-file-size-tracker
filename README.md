@@ -52,7 +52,7 @@ internal/
 
    ```bash
    git clone https://github.com/norazlan/myfirst-api-endpoints-and-file-size-tracker
-   cd metering-api
+   cd myfirst-api-endpoints-and-file-size-tracker
    ```
 
 2. **Configure environment variables:**
